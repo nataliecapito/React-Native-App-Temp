@@ -1,0 +1,8 @@
+{
+  "presets": [
+    "react",
+    "react-native",
+  ],
+
+  "retainLines": true
+}
