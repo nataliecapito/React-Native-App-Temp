@@ -1,21 +1,13 @@
 # General
 ## React-Native-App-Temp
 - React Native - native application blank start template.
-- README for native: `./READMES/NATIVE_README.md`.
 
-# Lint
-- `npm run lint` -> general format/style checking.
-- `npm run lint:airlint` -> format/style checking from airbnb; 'supposed' to be more in-depth than the lint check above.
-- `npm run lint:pretty` -> automatically fix the format/styles of the ./content/javascript files; under the lint/airlint library; DOES NOT FIX EVERYTHING.
-
-# Version(s)
-- native project: 1.0.0
-- react: 16.3.1
-- react-native: 0.55.4
+## Note:
+- This will not run. There is no node_modules folder and there is not a package.json. This is simply to serve as a ref. to getting started with different things you can do in React-Native, ie, themes, routing, handling .svg icons, etc. If you are interested in this template AND want it to run, please checkout my other repo here: https://github.com/smacknat/React-Native-App-Sandbox.
 
 # Update(s)
-- Project(s): 09/09/2018
-- README: 09/09/2018
+- Project(s): 11/06/2018
+- README: 11/06/2018
 
 # For more information on React and React-Native:
 - https://facebook.github.io/react-native/docs/getting-started.html
