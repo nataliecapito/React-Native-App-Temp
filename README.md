@@ -1,6 +1,7 @@
 # General
 ## React-Native-App-Temp
-- React Native - native application blank start template.
+- React Native application template.
+- README for native: `./READMES/NATIVE_README.md`.
 
 ## Note:
 - This file and application will NOT run.
